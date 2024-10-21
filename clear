@@ -1,0 +1,53 @@
+[33mcommit 1817663b7c9a3c539eedc61563368be379d91908[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 11:38:16 2024 +0200
+
+    index.html is changed v.2 with BUG
+
+[33mcommit 14cc38e1a605d5b585e3943904909f0d4b2ef2e8[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 11:37:40 2024 +0200
+
+    index.html is changed v.1
+
+[33mcommit b7abb11016cc11887ab4e141fa8cd5b09a314efc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 11:14:51 2024 +0200
+
+    index.html is changed
+
+[33mcommit 8e268c32ad1a7b8fca3fc0d2d823edf495c869a6[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 11:13:58 2024 +0200
+
+    style.css is added
+
+[33mcommit 88107a5adf4fdf07c2edd3d51564cf5a97a375b6[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 11:11:59 2024 +0200
+
+    script.js is added
+
+[33mcommit 4cce15206b1697568eb9e9c2d84040cd9b917c7d[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 11:05:48 2024 +0200
+
+    commands.md is removed
+
+[33mcommit 604dbf94f3e6b03c21a477eac695d210c55c1be0[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 10:22:17 2024 +0200
+
+    upd commands.md add git log
+
+[33mcommit 0d13770b4bab7aec81017ece66a405af75dee8d8[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 10:07:23 2024 +0200
+
+    upd commands.md
+
+[33mcommit edf8d41e63140674e7f0e7294709a81f60320e1e[m
+Author: NikolayEmrich <emrich.work@gmail.com>
+Date:   Mon Oct 21 10:01:01 2024 +0200
+
+    init
